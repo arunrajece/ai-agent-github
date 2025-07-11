@@ -36,7 +36,7 @@ A comprehensive AI agent built with Google's Agent Development Kit (ADK) that an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-digital-market-agent.git
+git clone https://github.com/arunrajece/ai-agent-github.git
 cd ai-digital-market-agent
 ```
 
