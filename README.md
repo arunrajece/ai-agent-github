@@ -36,7 +36,7 @@ A comprehensive AI agent built with Google's Agent Development Kit (ADK) that an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arunrajece/ai-agent-github.git
+git clone https://github.com/arunrajece/ai-digital-market-agent.git
 cd ai-digital-market-agent
 ```
 
@@ -199,7 +199,7 @@ Instead of traditional web scraping, the agent uses Gemini 2.0 Flash to:
 
 ### Local Development
 ```bash
-adk web --port 8080 ai_agent
+adk web --port 8080
 ```
 
 ### Cloud Deployment
@@ -251,7 +251,7 @@ This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 🙋‍♂️ Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-digital-market-agent/issues)
+- **Issues**: [GitHub Issues](https://github.com/arunrajece/ai-digital-market-agent/issues)
 - **Documentation**: See README and inline code comments
 - **Questions**: Open a GitHub Discussion
 
