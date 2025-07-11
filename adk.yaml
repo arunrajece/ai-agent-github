@@ -1,0 +1,24 @@
+name: digital-market-analysis-agent
+description: AI-Powered Digital Product Market Analysis Agent
+version: 1.0.0
+
+# ADK Agent Configuration
+agent:
+  name: digital_market_analysis_agent
+  description: Advanced AI agent for digital product market analysis and trend prediction
+  model: gemini-2.0-flash-exp
+  
+# Root agent module location
+root_agent_module: ai_agent.root_agent
+root_agent_name: root_agent
+
+# Environment configuration
+environment:
+  env_file: .env
+  
+# Core dependencies
+dependencies:
+  - google-adk>=1.0.0
+  - google-cloud-aiplatform>=1.42.0
+  - sendgrid>=6.10.0
+  - python-dotenv>=1.0.0
