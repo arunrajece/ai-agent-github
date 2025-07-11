@@ -105,7 +105,7 @@ TO_EMAIL=recipient@example.com
 
 ```bash
 # Launch the ADK web interface
-adk web --port 8080 ai_agent
+adk web --port 8080
 ```
 
 ### Access the Agent
